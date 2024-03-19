@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Aug 23 15:12:54 2023
+# Process ID: 25660
+# Current directory: C:/Users/90533/Documents/vivado/project/project.runs/impl_1
+# Command line: vivado.exe -log metro.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source metro.tcl -notrace
+# Log file: C:/Users/90533/Documents/vivado/project/project.runs/impl_1/metro.vdi
+# Journal file: C:/Users/90533/Documents/vivado/project/project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source metro.tcl -notrace
